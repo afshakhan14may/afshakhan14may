@@ -1,7 +1,9 @@
-- 👋 Afsha khan
+![down](https://github.com/afshakhan14may/afshakhan14may/assets/155171206/c842c535-d29a-43fd-86dd-e318cf1f64b4)- 👋 Afsha khan
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=24&pause=1000&color=E9124E&random=false&width=435&lines=Hello+world+I+am+afsha+khan)](https://git.io/typing-svg)
   
 # 💫 About Me:
-I am a student of msc in cs<br>I want to become a software devleoper.<br>I want to change the world for good.<br>
+
+![down](https://github.com/afshakhan14may/afshakhan14may/assets/155171206/b34452d0-28e3-42c4-b0a7-0ab2e5f2e9c8)
 
 
 ## 🌐 Socials:
@@ -20,13 +22,10 @@ I am a student of msc in cs<br>I want to become a software devleoper.<br>I want 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=afshakhan14may&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://' style="height: 400px;"/>
+### 😂 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=afshakhan14may&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
