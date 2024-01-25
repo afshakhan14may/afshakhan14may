@@ -21,6 +21,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=24&pause=1000&color=E9124E&random=false&width=435&lines=my+projects)](https://git.io/typing-svg)
+Linkedin automatic apply![1706208983533](https://github.com/afshakhan14may/afshakhan14may/assets/155171206/b77373fb-0c38-4963-b4b6-06acda5c04ba) 
+python automatic happybirday msg sender  on birth day![1706208983539](https://github.com/afshakhan14may/afshakhan14may/assets/155171206/255370ae-2436-4192-88bb-33edd5d1622e)    
+storing state name and quiz ![1706208983546](https://github.com/afshakhan14may/afshakhan14may/assets/155171206/7a647fee-4f73-4661-9743-48c4285ef4c1)
+Treasure game ![1706208983554](https://github.com/afshakhan14may/afshakhan14may/assets/155171206/d245f9a8-d8a6-4d4a-ae39-03ab32812658)
+Rock paper scissor ![1706208983562](https://github.com/afshakhan14may/afshakhan14may/assets/155171206/f0b7de35-ecb7-4a9f-96b0-bf480377387f)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=afshakhan14may&icon=0&color=0)](https://visitcount.itsvg.in)
